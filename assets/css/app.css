@@ -1,0 +1,30 @@
+.app-flag-bg {
+	background-image: url("../img/auxiliar/tag_rr.png");
+	background-size: 100% 100%;
+	background-position: center center;
+    color: white;
+}
+
+.app-purple-bottom-border {
+    border-bottom-width: 6px;
+    border-bottom-style: solid;
+    border-bottom-color: #4f2c6c;
+}
+
+.app-header img {
+    width: 100%;
+}
+
+/* https://stackoverflow.com/questions/24075222/how-can-i-change-the-bootstrap-default-font-family-using-font-from-google*/
+.app-text-font-family_elsie {
+    font-family: 'Elsie Swash Caps', sans-serif !important;
+}
+
+.app-bg-dark-purple {
+    color: white;
+    background-color: #150426;
+}
+
+body {
+    font-family: 'Cutive Mono', sans-serif !important;
+}
