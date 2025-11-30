@@ -28,3 +28,15 @@
 body {
     font-family: 'Cutive Mono', sans-serif !important;
 }
+
+.app-card-name {
+    font-size: 2rem;
+}
+
+@media (min-width: 576px) {
+    .app-card-name {
+        font-size: 3.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+    }
+}
