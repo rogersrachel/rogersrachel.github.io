@@ -33,6 +33,20 @@ body {
     font-size: 2rem;
 }
 
+/* Source - https://stackoverflow.com/a
+Posted by joshmoto, modified by community. See post 'Timeline' for change history
+Retrieved 2025-12-08, License - CC BY-SA 4.0 */
+
+.navbar {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+.navbar-hide {
+    pointer-events: none;
+    opacity: 0;
+}
+
 @media (min-width: 576px) {
     .app-card-name {
         font-size: 3.5rem;
