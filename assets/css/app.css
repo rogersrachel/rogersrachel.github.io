@@ -51,9 +51,15 @@ Retrieved 2025-12-08, License - CC BY-SA 4.0 */
 
 @media (min-width: 576px) {
     .app-card-name {
-        font-size: 3rem;
+        font-size: 2.4rem;
         font-weight: 300;
         line-height: 1.2;
+    }
+}
+
+@media (min-width: 658px) {
+    .app-card-name {
+        font-size: 3rem;
     }
 }
 
