@@ -2,7 +2,9 @@
 	background-image: url("../img/auxiliar/tag_rr.png");
 	background-size: 100% 100%;
 	background-position: center center;
-    color: white;
+	color: white;
+	padding-right: 0.3em;
+	padding-left: 0.3em;
 }
 
 .app-purple-bottom-border {
