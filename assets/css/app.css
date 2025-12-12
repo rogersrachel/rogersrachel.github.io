@@ -68,3 +68,7 @@ Retrieved 2025-12-08, License - CC BY-SA 4.0 */
       font-size: 3.5rem;
   }
 }
+
+img {
+    pointer-events: none;
+}
